@@ -21,6 +21,6 @@
 
 - Contact CTA button has a fixed width, therefore its not responsive, need to look more into it. ![mobile contact CTA](mobile-contact-cta.png)
 
-## THe Ugly
+## The Ugly
 
 - First load takes a lot of time. Bad for anyone visiting for potential work. maybe because of the Fullstack implementation. (We don't know how to optimize backend with frontend.) _Suggestion:_ Most of the data is static, a backend is less preferred for static websites like portfolios.

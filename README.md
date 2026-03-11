@@ -1,0 +1,3 @@
+# Notes.
+Currently empty because i am actually using a physically notebook to write down my stuff. I will re-purpose this repo to have my findings and blogs (in markdown formats).
+Soon...
